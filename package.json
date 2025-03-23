@@ -2,6 +2,7 @@
   "name": "learning_react",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://kekofigueroa-dev.github.io/learning_react/",
   "type": "module",
   "scripts": {
     "dev": "vite",
